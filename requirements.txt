@@ -1,0 +1,25 @@
+# Required Python packages for PyPSGA
+
+# Core packages
+numpy==1.21.2
+pandas==1.3.3
+
+# For project structure generation and analysis
+pyclbr==0.1.6
+astroid==2.8.3
+
+# For AI-driven optimization
+scikit-learn==0.24.2
+tensorflow==2.6.0
+
+# For integration with version control systems
+GitPython==3.1.24
+
+# For documentation automation
+pydoc-markdown==3.14.0
+
+# For handling templates
+jinja2==3.0.1
+
+# For testing
+pytest==6.2.5

@@ -1,0 +1,15 @@
+{
+    "src": {
+        "main": {
+            "python": {},
+            "resources": {}
+        },
+        "test": {
+            "python": {},
+            "resources": {}
+        }
+    },
+    "docs": {},
+    "libs": {},
+    "bin": {}
+}
